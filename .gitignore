@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Problems/A simple calculator/out/
+/Problems/A simple calculator/out/production/classes/
+/Problems/Pretty looking pattern/out/
+/Problems/Pretty looking pattern/out/production/classes/
+/Problems/The longest ascending sequence/out/
+/Problems/The longest ascending sequence/out/production/classes/
+/Tic-Tac-Toe/task/build/
+/Tic-Tac-Toe/task/out/
+/Tic-Tac-Toe/task/out/production/classes/
